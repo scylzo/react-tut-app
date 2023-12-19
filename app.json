@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-tuto",
-    "slug": "rn-tuto",
+    "name": "rn-todolist",
+    "slug": "rn-todolist",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
